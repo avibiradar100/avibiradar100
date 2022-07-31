@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Biradar</h1>
-<h3 align="center">A passionate Fullstack developer and Coder</h3>
+<h3 align="center">A Passionate FullStack Developer And Coder</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avibiradar100&label=Profile%20views&color=0e75b6&style=flat" alt="avibiradar100" /> </p>
 
