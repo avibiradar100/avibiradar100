@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **avinash.biradar2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing](https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing)
+- 📄Resume [https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing](https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
