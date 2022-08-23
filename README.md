@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avibiradar100&show_icons=true&locale=en" alt="avibiradar100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avibiradar100&" alt="avibiradar100" /></p>
+<h2 align="center"> 🔥 Streak Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avibiradar100&theme=algolia" alt="avinash-biradar"/></p>
