@@ -9,10 +9,11 @@
 
 - 📫 How to reach me **avinash.biradar2001@gmail.com**
 
-- 📄Resume [https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing]([[https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing](https://drive.google.com/file/d/1qweCZrwZV5v1HMEVwrsl4ryacJxJOuTD/view?usp=sharing)](https://drive.google.com/file/d/1qweCZrwZV5v1HMEVwrsl4ryacJxJOuTD/view?usp=sharing))
-- 
+- 📄Resume [https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing]([https://drive.google.com/file/d/1CreihMXNtM9pOU4hQ72ycuGg4E6kg0Fa/view?usp=sharing](https://drive.google.com/file/d/1qweCZrwZV5v1HMEVwrsl4ryacJxJOuTD/view?usp=sharing))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/avi_biradar77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avi_biradar77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avinash-biradar-9279241aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-biradar-9279241aa" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avibiradar_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avibiradar_100" height="30" width="40" /></a>
